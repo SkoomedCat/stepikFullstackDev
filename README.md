@@ -1,1 +1,2 @@
 Change the line
+authorization_component
